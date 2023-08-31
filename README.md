@@ -1,7 +1,7 @@
 UIUC_ECE385
 
 This is my personal repo for all relevant code for ECE385 Digital Systems Laboratory.
-This repo is not inteded to be copied by any future/existing students.
+This repo is not intended to be copied by any future/existing students.
 
 All novel code is written by me, Patrick Wang, along with Wyatt Sass. Some code is provided by UIUC or otherwise noted.
 
