@@ -4,6 +4,7 @@ This is my personal repo for all relevant code for ECE385 Digital Systems Labora
 This repo is not inteded to be copied by any future/existing students.
 
 All novel code is written by me, Patrick Wang, along with Wyatt Sass. Some code is provided by UIUC or otherwise noted.
+
 Final Project consists of a fun and interactive rendition of Tetris, and our implementation includes both SystemVerilog code as well as C code that work in tandem to allow USB compatibility and VGA display.
 SystemVerilog was compiled using Quartus Prime Lite and C code was compiled through Eclipse.
 Other labs explore the limits of FPGA design and tested our ability to parse through dense manuals and to create working solutions with limited instruction and guidance.
